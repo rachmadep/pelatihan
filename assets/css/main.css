@@ -145,7 +145,16 @@ h3{
   color: #f0ec4e;
 }
 
-
-
-
 /*Footer*/
+.container-bluebg {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 198, 0);
+}
+.disclaimer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    background: url(http://sarjana.jteti.ugm.ac.id/media/1051/header.png);
+}
